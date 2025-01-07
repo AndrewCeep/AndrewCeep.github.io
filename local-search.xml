@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>我的第一篇hexo博客</title>
+    <link href="/2025/01/07/hello-world/"/>
+    <url>/2025/01/07/hello-world/</url>
+    
+    <content type="html"><![CDATA[<h3 id="C-入门代码"><a href="#C-入门代码" class="headerlink" title="C++入门代码"></a>C++入门代码</h3><p>、、、C++<br>#include<iostream></p><p>int main()<br>{<br>std::cout &lt;&lt; “hello world”&lt;&lt;std::endl;<br>return 0;<br>}</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
