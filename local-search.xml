@@ -8,7 +8,7 @@
     <link href="/2025/01/07/hello-world/"/>
     <url>/2025/01/07/hello-world/</url>
     
-    <content type="html"><![CDATA[<h3 id="C-入门代码"><a href="#C-入门代码" class="headerlink" title="C++入门代码"></a>C++入门代码</h3><p>C++<br>#include<iostream></p><p>int main()<br>{<br>std::cout &lt;&lt; “hello world”&lt;&lt;std::endl;<br>return 0;<br>}</p><h3 id="Markdown-com-cn-简介"><a href="#Markdown-com-cn-简介" class="headerlink" title="Markdown.com.cn 简介"></a>Markdown.com.cn 简介</h3>]]></content>
+    <content type="html"><![CDATA[<h3 id="C-入门代码"><a href="#C-入门代码" class="headerlink" title="C++入门代码"></a>C++入门代码</h3><p>C++<br>#include<iostream></p><p>int main()<br>{<br>std::cout &lt;&lt; “hello world”&lt;&lt;std::endl;<br>return 0;<br>}</p><h3 id="Markdown-com-cn-简介"><a href="#Markdown-com-cn-简介" class="headerlink" title="Markdown.com.cn 简介"></a>Markdown.com.cn 简介</h3><ul><li>支持自定义样式的 Markdown 编辑器</li><li>支持微信公众号、知乎和稀土掘金</li><li>点击右上方对应图标，一键复制到各平台</li></ul>]]></content>
     
     
     
